@@ -80,7 +80,7 @@ input[type="file"] {
 input:focus,
 textarea:focus {
   outline: none;
-  box-shadow: 0 0 8px rgba(5, 9, 84, 0.7);
+  box-shadow: 0 0 8px rgba(32, 99, 146, 0.7);
 }
 
 
